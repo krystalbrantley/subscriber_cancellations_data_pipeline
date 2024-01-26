@@ -26,7 +26,6 @@
   - **cademycode_cleansed.csv**: Aggregated data in CSV format for production use
 
 - **writeup/**:
-  - **writeup.md**: High-level overview of the project
   - **subscriber_cancellations.ipynb**: Jupyter Notebook containing the discovery phase of this project: loading, inspecting, transforming.
 
 ## Python Script
